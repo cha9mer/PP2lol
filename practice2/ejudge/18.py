@@ -6,4 +6,4 @@ for i in range(1, n + 1):
         f[s] = i
 
 for s in sorted(f):
-    print(s, f[s])19
+    print(s, f[s])
